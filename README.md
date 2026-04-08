@@ -1,4 +1,4 @@
-#  ESP32-Based Wi-Fi Teleoperation Platform (Custom PCB)
+#  ESP32-Based Wi-Fi Teleoperation Platform (Custom PCB) (Ongoing)
 
 [![Hardware](https://img.shields.io/badge/Hardware-Altium_Designer-blue.svg)](#)
 [![MCU](https://img.shields.io/badge/MCU-ESP32--WROOM--32D-orange.svg)](#)
